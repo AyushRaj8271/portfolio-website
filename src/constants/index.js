@@ -287,7 +287,7 @@ import {
 
   const ProfessionalSkills = [
     { skill: "Project Management", value: "90" },
-    { skill: "Team Leadership", value: "88" },
+    { skill: "Curious", value: "100" },
     { skill: "Communication", value: "92" },
     { skill: "Problem Solving", value: "85" },
     { skill: "Time Management", value: "85" },
