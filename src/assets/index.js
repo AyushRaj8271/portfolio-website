@@ -21,8 +21,6 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-// import meta from "./company/meta.png";
-
 import cplusplus from "./tech/cplusplus.png";
 import commscope from "./company/commscope.png";
 import python from "./tech/python.png";
